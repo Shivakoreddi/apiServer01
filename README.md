@@ -1,10 +1,11 @@
 # apiServer01
 
 How to
+
 Create a repository on GitHub (<your-username>/<your-repo>)
-Create a db.json file
-Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server
-No registration. Nothing to install.
+Added a db.json file in repository - to make changes update the db.json file and commit
+Visit https://my-json-server.typicode.com/Shivekoreddi/apiServer01 to access your server
+No registration required
 
 Example
 You can check the following server as an example:
